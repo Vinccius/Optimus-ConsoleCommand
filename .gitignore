@@ -1,0 +1,4 @@
+#ignore files
+Optimus-ConsoleCommand\Console Command\Library/
+*.png
+
